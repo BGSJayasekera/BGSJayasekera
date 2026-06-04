@@ -1,16 +1,44 @@
 ## Hi there 👋
+## B G S Jayasekera
+**Security Operations Engineer**
 
-<!--
-**BGSJayasekera/BGSJayasekera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+Hi and welcome. I am a security engineer with over 6 years of experience in the IT industry. My main focus has been in Security.
 
-Here are some ideas to get you started:
+### What I am currently engaged in
+Things that I am currently working on:
+- Podman
+- Puppet
+- Python
+- Keycloak
+- EntraID
+- Microsoft Defender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things that I have worked on:
+- Splunk
+- Web app testing
+
+### Learning
+Things I am currently learning:
+- Neovim
+- Proxmox
+- Gitlab (SelfHosted)
+- Cloudflare
+- Go
+- Kubernetes
+- Terraform/Opentofu
+- eBPF
+
+### Location
+📍 Stockholm, Sweden
+
+### Interests
+Outside of work I do enjoy:
+ - Home labbing
+ - Free diving
+ - Muay thai
+ - Cooking
+ - Video games
+
+### Contact
+:email: gayan.jayasekera@protonmail.com
