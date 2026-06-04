@@ -1,4 +1,3 @@
-## Hi there 👋
 ## B G S Jayasekera
 **Security Operations Engineer**
 
