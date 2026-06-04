@@ -34,7 +34,7 @@ Things I am currently learning:
 ### Interests
 Outside of work I do enjoy:
  - Home labbing
- - Free diving
+ - Freediving
  - Muay thai
  - Cooking
  - Video games
